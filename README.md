@@ -15,3 +15,23 @@ To add the maps to Apollo:
   bazel-bin/modules/map/tools/sim_map_generator --map_dir=${dir_name} --output_dir=${dir_name}
   ```
 
+
+## Map Carla Town01
+
+![](maps_images/Carla_Town01_in_Apollo.png)
+
+## Map Carla Town02
+
+![](maps_images/Carla_Town02_in_Apollo.png)
+
+## Map Carla Town03
+
+![](maps_images/Carla_Town03_in_Apollo.png)
+
+## Map Carla Town04
+
+![](maps_images/Carla_Town04_in_Apollo.png)
+
+## Map Carla Town05
+
+![](maps_images/Carla_Town05_in_Apollo.png)
