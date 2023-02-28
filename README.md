@@ -14,6 +14,8 @@ To add the maps to Apollo:
   dir_name=modules/map/data/town01 # example map directory
   bazel-bin/modules/map/tools/sim_map_generator --map_dir=${dir_name} --output_dir=${dir_name}
   ```
+  
+Note: for carla\_town01 and carla\_town03 no need to generate extra files. You can find all the needed files in the map folder.
 
 
 ## Map Carla Town01
