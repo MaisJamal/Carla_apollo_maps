@@ -15,12 +15,16 @@ To add the maps to Apollo:
   bazel-bin/modules/map/tools/sim_map_generator --map_dir=${dir_name} --output_dir=${dir_name}
   ```
   
-Note: for carla\_town01 and carla\_town03 no need to generate extra files. You can find all the needed files in the map folder.
+Note 1 : for carla\_town01 and carla\_town03 no need to generate extra files. You can find all the needed files in the map folder.
+
+Note 2 : Town01 has several traffic lights, added to test Apollo autonomous driving at intersections. 
 
 
 ## Map Carla Town01
 
 ![](maps_images/Carla_Town01_in_Apollo.png)
+
+![](maps_images/traffic_lights_in_town01.png)
 
 ## Map Carla Town02
 
