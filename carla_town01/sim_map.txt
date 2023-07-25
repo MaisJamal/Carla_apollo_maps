@@ -17762,6 +17762,9 @@ lane {
     }
   }
   length: 1.504506818439
+  overlap_id {
+    id: "overlap_signal_7_4"
+  }
   successor_id {
     id: "108_2_-1"
   }
@@ -17963,6 +17966,9 @@ lane {
     }
   }
   length: 9.552957898904
+  overlap_id {
+    id: "overlap_signal_7_4"
+  }
   successor_id {
     id: "108_3_-1"
   }
@@ -27177,6 +27183,12 @@ signal {
   overlap_id {
     id: "overlap_signal_7_3"
   }
+  overlap_id {
+    id: "overlap_signal_7_4"
+  }
+  overlap_id {
+    id: "overlap_signal_7_5"
+  }
   type: MIX_3_VERTICAL
   stop_line {
     segment {
@@ -27963,7 +27975,7 @@ overlap {
     }
     lane_overlap_info {
       start_s: 35.7452477
-      end_s: 40.636047001
+      end_s: 43.636047001
       is_merge: false
     }
   }
@@ -28029,7 +28041,7 @@ overlap {
     }
     lane_overlap_info {
       start_s: 217.3289
-      end_s: 222.26
+      end_s: 224.76
       is_merge: false
     }
   }
@@ -28094,8 +28106,8 @@ overlap {
       id: "19_1_1"
     }
     lane_overlap_info {
-      start_s: 102.9
-      end_s: 107.59
+      start_s: 103.2
+      end_s: 112.7
       is_merge: false
     }
   }
@@ -28136,6 +28148,50 @@ overlap {
   object {
     id {
       id: "108_3_-1"
+    }
+    lane_overlap_info {
+      start_s: 0
+      end_s: 0
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal7"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_7_4"
+  }
+  object {
+    id {
+      id: "108_1_-1"
+    }
+    lane_overlap_info {
+      start_s: 0
+      end_s: 0
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal7"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_7_5"
+  }
+  object {
+    id {
+      id: "108_2_-1"
     }
     lane_overlap_info {
       start_s: 0
@@ -28293,7 +28349,7 @@ overlap {
     }
     lane_overlap_info {
       start_s: 102.376199731
-      end_s: 107.313551499
+      end_s: 108.813551499
       is_merge: false
     }
   }
@@ -28358,8 +28414,8 @@ overlap {
       id: "5_1_-1"
     }
     lane_overlap_info {
-      start_s: 60.03
-      end_s: 65.529
+      start_s: 61.53
+      end_s: 69.529
       is_merge: false
     }
   }
@@ -28424,8 +28480,8 @@ overlap {
       id: "24_1_-1"
     }
     lane_overlap_info {
-      start_s: 102.736589
-      end_s: 107.9463
+      start_s: 103.536589
+      end_s: 109.9463
       is_merge: false
     }
   }
@@ -28490,8 +28546,8 @@ overlap {
       id: "6_1_-1"
     }
     lane_overlap_info {
-      start_s: 218
-      end_s: 220
+      start_s: 219
+      end_s: 225
       is_merge: false
     }
   }
@@ -28557,7 +28613,7 @@ overlap {
     }
     lane_overlap_info {
       start_s: 28.47
-      end_s: 30.47
+      end_s: 37.47
       is_merge: false
     }
   }
@@ -28623,7 +28679,7 @@ overlap {
     }
     lane_overlap_info {
       start_s: 102.192781464
-      end_s: 104.192781464
+      end_s: 109.192781464
       is_merge: false
     }
   }
@@ -28688,8 +28744,8 @@ overlap {
       id: "6_1_1"
     }
     lane_overlap_info {
-      start_s: 214.337
-      end_s: 219.8057
+      start_s: 215.697
+      end_s: 224.8057
       is_merge: false
     }
   }
