@@ -17,7 +17,7 @@ To add the maps to Apollo:
   
 Note 1 : for carla\_town01 and carla\_town03 no need to generate extra files. You can find all the needed files in the map folder.
 
-Note 2 : Town01 has several traffic lights, added to test Apollo autonomous driving at intersections. 
+Note 2 : Town01 has all the traffic lights, added to test Apollo autonomous driving at intersections. 
 
 
 ## Map Carla Town01

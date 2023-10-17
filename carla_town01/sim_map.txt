@@ -893,6 +893,9 @@ lane {
     }
   }
   length: 15.48357117873
+  overlap_id {
+    id: "overlap_signal_5_2"
+  }
   successor_id {
     id: "29_2_-1"
   }
@@ -1238,6 +1241,9 @@ lane {
     }
   }
   length: 21.96550049138
+  overlap_id {
+    id: "overlap_signal_18_2"
+  }
   successor_id {
     id: "25_1_1"
   }
@@ -1866,6 +1872,9 @@ lane {
     }
   }
   length: 0.2164093648213
+  overlap_id {
+    id: "overlap_signal_18_3"
+  }
   successor_id {
     id: "179_2_-1"
   }
@@ -2286,6 +2295,9 @@ lane {
     }
   }
   length: 0.6545154616783
+  overlap_id {
+    id: "overlap_signal_0_3"
+  }
   successor_id {
     id: "51_2_-1"
   }
@@ -2829,6 +2841,9 @@ lane {
     }
   }
   length: 0.9742899819448
+  overlap_id {
+    id: "overlap_signal_12_3"
+  }
   successor_id {
     id: "151_2_-1"
   }
@@ -2917,6 +2932,9 @@ lane {
     }
   }
   length: 0.6021980814841
+  overlap_id {
+    id: "overlap_signal_14_2"
+  }
   successor_id {
     id: "50_3_1"
   }
@@ -3097,6 +3115,9 @@ lane {
   }
   length: 51.54501931072
   speed_limit: 11.175972222222223
+  overlap_id {
+    id: "overlap_signal_13_1"
+  }
   successor_id {
     id: "114_1_-1"
   }
@@ -3568,11 +3589,14 @@ lane {
     }
   }
   length: 15.53335035941
+  overlap_id {
+    id: "overlap_signal_0_2"
+  }
   successor_id {
     id: "16_1_-1"
   }
   type: CITY_DRIVING
-  turn: NO_TURN
+  turn: RIGHT_TURN
   direction: FORWARD
 }
 lane {
@@ -3656,6 +3680,9 @@ lane {
     }
   }
   length: 0.6021980814841
+  overlap_id {
+    id: "overlap_signal_14_3"
+  }
   successor_id {
     id: "56_1_1"
   }
@@ -3848,6 +3875,9 @@ lane {
     }
   }
   length: 15.6741841231
+  overlap_id {
+    id: "overlap_signal_6_2"
+  }
   successor_id {
     id: "25_1_-1"
   }
@@ -4116,6 +4146,9 @@ lane {
     }
   }
   length: 21.87874218625
+  overlap_id {
+    id: "overlap_signal_30_2"
+  }
   successor_id {
     id: "4_1_-1"
   }
@@ -4444,6 +4477,9 @@ lane {
     }
   }
   length: 21.37486082207
+  overlap_id {
+    id: "overlap_signal_31_3"
+  }
   successor_id {
     id: "23_1_-1"
   }
@@ -4533,6 +4569,9 @@ lane {
   }
   length: 41.98620780985
   speed_limit: 11.175972222222223
+  overlap_id {
+    id: "overlap_signal_10_1"
+  }
   successor_id {
     id: "150_4_1"
   }
@@ -4868,6 +4907,9 @@ lane {
     }
   }
   length: 21.69289652131
+  overlap_id {
+    id: "overlap_signal_5_3"
+  }
   successor_id {
     id: "2_1_-1"
   }
@@ -5136,6 +5178,9 @@ lane {
     }
   }
   length: 1.12742265951
+  overlap_id {
+    id: "overlap_signal_4_2"
+  }
   successor_id {
     id: "27_1_1"
   }
@@ -5529,6 +5574,9 @@ lane {
   }
   length: 35.48746805353
   speed_limit: 11.175972222222223
+  overlap_id {
+    id: "overlap_signal_19_1"
+  }
   successor_id {
     id: "168_1_-1"
   }
@@ -5796,6 +5844,9 @@ lane {
     }
   }
   length: 0.6158518836789
+  overlap_id {
+    id: "overlap_signal_13_3"
+  }
   successor_id {
     id: "123_2_-1"
   }
@@ -5885,6 +5936,9 @@ lane {
   }
   length: 35.48746805353
   speed_limit: 11.175972222222223
+  overlap_id {
+    id: "overlap_signal_5_1"
+  }
   successor_id {
     id: "29_1_-1"
   }
@@ -6199,6 +6253,9 @@ lane {
     }
   }
   length: 15.50343758085
+  overlap_id {
+    id: "overlap_signal_34_3"
+  }
   successor_id {
     id: "21_1_1"
   }
@@ -6479,6 +6536,9 @@ lane {
   }
   length: 44.48974656436
   speed_limit: 11.175972222222223
+  overlap_id {
+    id: "overlap_signal_32_1"
+  }
   successor_id {
     id: "160_1_-1"
   }
@@ -6793,6 +6853,9 @@ lane {
     }
   }
   length: 1.318066737132
+  overlap_id {
+    id: "overlap_signal_23_3"
+  }
   successor_id {
     id: "88_2_-1"
   }
@@ -6882,6 +6945,9 @@ lane {
   }
   length: 158.4546397419
   speed_limit: 11.175972222222223
+  overlap_id {
+    id: "overlap_signal_16_1"
+  }
   successor_id {
     id: "112_2_1"
   }
@@ -7087,6 +7153,9 @@ lane {
   }
   length: 43.59762833274
   speed_limit: 11.175972222222223
+  overlap_id {
+    id: "overlap_signal_18_1"
+  }
   successor_id {
     id: "169_1_-1"
   }
@@ -7769,11 +7838,14 @@ lane {
     }
   }
   length: 21.6152612882
+  overlap_id {
+    id: "overlap_signal_15_2"
+  }
   successor_id {
     id: "1_1_-1"
   }
   type: CITY_DRIVING
-  turn: NO_TURN
+  turn: LEFT_TURN
   direction: FORWARD
 }
 lane {
@@ -7954,6 +8026,9 @@ lane {
   }
   length: 158.4546397419
   speed_limit: 11.175972222222223
+  overlap_id {
+    id: "overlap_signal_20_1"
+  }
   successor_id {
     id: "172_2_1"
   }
@@ -8269,6 +8344,9 @@ lane {
   }
   length: 51.54501931072
   speed_limit: 11.175972222222223
+  overlap_id {
+    id: "overlap_signal_12_1"
+  }
   successor_id {
     id: "140_1_-1"
   }
@@ -8448,6 +8526,9 @@ lane {
     }
   }
   length: 1.179740039329
+  overlap_id {
+    id: "overlap_signal_6_3"
+  }
   successor_id {
     id: "37_3_1"
   }
@@ -8633,6 +8714,9 @@ lane {
   }
   length: 43.59762833274
   speed_limit: 11.175972222222223
+  overlap_id {
+    id: "overlap_signal_34_1"
+  }
   successor_id {
     id: "192_1_-1"
   }
@@ -8737,6 +8821,9 @@ lane {
   }
   length: 157.5452996716
   speed_limit: 11.175972222222223
+  overlap_id {
+    id: "overlap_signal_4_1"
+  }
   successor_id {
     id: "27_2_1"
   }
@@ -9024,6 +9111,9 @@ lane {
   }
   length: 51.68171213581
   speed_limit: 11.175972222222223
+  overlap_id {
+    id: "overlap_signal_30_1"
+  }
   successor_id {
     id: "158_1_-1"
   }
@@ -9315,6 +9405,9 @@ lane {
     }
   }
   length: 14.98205493537
+  overlap_id {
+    id: "overlap_signal_32_2"
+  }
   successor_id {
     id: "4_1_-1"
   }
@@ -9661,6 +9754,9 @@ lane {
   }
   length: 42.26242643868
   speed_limit: 11.175972222222223
+  overlap_id {
+    id: "overlap_signal_23_1"
+  }
   successor_id {
     id: "83_1_-1"
   }
@@ -9939,6 +10035,9 @@ lane {
     }
   }
   length: 11.00000898668
+  overlap_id {
+    id: "overlap_signal_35_2"
+  }
   successor_id {
     id: "189_2_-1"
   }
@@ -10854,6 +10953,9 @@ lane {
   }
   length: 157.5436016419
   speed_limit: 11.175972222222223
+  overlap_id {
+    id: "overlap_signal_0_1"
+  }
   successor_id {
     id: "44_1_-1"
   }
@@ -11041,6 +11143,9 @@ lane {
   }
   length: 224.215935767
   speed_limit: 11.175972222222223
+  overlap_id {
+    id: "overlap_signal_11_1"
+  }
   successor_id {
     id: "141_1_-1"
   }
@@ -11508,6 +11613,9 @@ lane {
   }
   length: 42.2606958824
   speed_limit: 11.175972222222223
+  overlap_id {
+    id: "overlap_signal_6_1"
+  }
   successor_id {
     id: "31_1_-1"
   }
@@ -11873,6 +11981,9 @@ lane {
   }
   length: 68.34623840287
   speed_limit: 11.175972222222223
+  overlap_id {
+    id: "overlap_signal_3_1"
+  }
   successor_id {
     id: "82_4_1"
   }
@@ -13531,6 +13642,9 @@ lane {
     }
   }
   length: 0.1845041839196
+  overlap_id {
+    id: "overlap_signal_20_2"
+  }
   successor_id {
     id: "172_1_1"
   }
@@ -13733,6 +13847,9 @@ lane {
   }
   length: 35.48668536904
   speed_limit: 11.175972222222223
+  overlap_id {
+    id: "overlap_signal_21_1"
+  }
   successor_id {
     id: "90_2_1"
   }
@@ -14038,6 +14155,9 @@ lane {
   }
   length: 35.62228511991
   speed_limit: 11.175972222222223
+  overlap_id {
+    id: "overlap_signal_15_1"
+  }
   successor_id {
     id: "45_1_-1"
   }
@@ -14450,6 +14570,9 @@ lane {
     }
   }
   length: 1.12742265951
+  overlap_id {
+    id: "overlap_signal_4_3"
+  }
   successor_id {
     id: "38_2_-1"
   }
@@ -14637,6 +14760,9 @@ lane {
     }
   }
   length: 11.00005004719
+  overlap_id {
+    id: "overlap_signal_32_3"
+  }
   successor_id {
     id: "165_1_1"
   }
@@ -14814,6 +14940,9 @@ lane {
   }
   length: 35.48668536904
   speed_limit: 11.175972222222223
+  overlap_id {
+    id: "overlap_signal_33_1"
+  }
   successor_id {
     id: "188_2_1"
   }
@@ -15105,6 +15234,9 @@ lane {
     }
   }
   length: 15.3532850523
+  overlap_id {
+    id: "overlap_signal_3_3"
+  }
   successor_id {
     id: "21_1_-1"
   }
@@ -15194,6 +15326,9 @@ lane {
   }
   length: 35.62228511991
   speed_limit: 11.175972222222223
+  overlap_id {
+    id: "overlap_signal_17_1"
+  }
   successor_id {
     id: "122_4_1"
   }
@@ -15381,6 +15516,9 @@ lane {
   }
   length: 36.36017730631
   speed_limit: 11.175972222222223
+  overlap_id {
+    id: "overlap_signal_14_1"
+  }
   successor_id {
     id: "50_4_1"
   }
@@ -15560,6 +15698,9 @@ lane {
     }
   }
   length: 1.37038408176
+  overlap_id {
+    id: "overlap_signal_3_2"
+  }
   successor_id {
     id: "82_3_1"
   }
@@ -15648,6 +15789,9 @@ lane {
     }
   }
   length: 11.00000898668
+  overlap_id {
+    id: "overlap_signal_33_2"
+  }
   successor_id {
     id: "188_1_1"
   }
@@ -15913,6 +16057,9 @@ lane {
     }
   }
   length: 1.318066737132
+  overlap_id {
+    id: "overlap_signal_23_2"
+  }
   successor_id {
     id: "83_2_-1"
   }
@@ -16001,6 +16148,9 @@ lane {
     }
   }
   length: 1.089172938494
+  overlap_id {
+    id: "overlap_signal_10_3"
+  }
   successor_id {
     id: "154_1_1"
   }
@@ -16284,6 +16434,9 @@ lane {
     }
   }
   length: 0.5009694952112
+  overlap_id {
+    id: "overlap_signal_17_2"
+  }
   successor_id {
     id: "122_3_1"
   }
@@ -16484,6 +16637,9 @@ lane {
     }
   }
   length: 15.21933739615
+  overlap_id {
+    id: "overlap_signal_21_2"
+  }
   successor_id {
     id: "90_1_1"
   }
@@ -16808,6 +16964,9 @@ lane {
     }
   }
   length: 21.6261125631
+  overlap_id {
+    id: "overlap_signal_21_3"
+  }
   successor_id {
     id: "3_1_-1"
   }
@@ -17671,6 +17830,9 @@ lane {
   }
   length: 51.68171213581
   speed_limit: 11.175972222222223
+  overlap_id {
+    id: "overlap_signal_35_1"
+  }
   successor_id {
     id: "189_1_-1"
   }
@@ -18225,6 +18387,9 @@ lane {
     }
   }
   length: 21.57925451665
+  overlap_id {
+    id: "overlap_signal_11_2"
+  }
   successor_id {
     id: "17_1_1"
   }
@@ -18513,6 +18678,9 @@ lane {
     }
   }
   length: 15.11957865824
+  overlap_id {
+    id: "overlap_signal_15_3"
+  }
   successor_id {
     id: "58_2_-1"
   }
@@ -18988,6 +19156,9 @@ lane {
     }
   }
   length: 15.48621823234
+  overlap_id {
+    id: "overlap_signal_16_2"
+  }
   successor_id {
     id: "112_1_1"
   }
@@ -19171,6 +19342,9 @@ lane {
     }
   }
   length: 0.6158518836789
+  overlap_id {
+    id: "overlap_signal_13_2"
+  }
   successor_id {
     id: "114_2_-1"
   }
@@ -20653,6 +20827,9 @@ lane {
     }
   }
   length: 21.40865271004
+  overlap_id {
+    id: "overlap_signal_16_3"
+  }
   successor_id {
     id: "16_1_1"
   }
@@ -21809,6 +21986,9 @@ lane {
     }
   }
   length: 15.21943128257
+  overlap_id {
+    id: "overlap_signal_12_2"
+  }
   successor_id {
     id: "4_1_1"
   }
@@ -22339,6 +22519,9 @@ lane {
   }
   length: 224.215935767
   speed_limit: 11.175972222222223
+  overlap_id {
+    id: "overlap_signal_31_1"
+  }
   successor_id {
     id: "157_1_-1"
   }
@@ -22518,6 +22701,9 @@ lane {
     }
   }
   length: 1.089172938494
+  overlap_id {
+    id: "overlap_signal_10_2"
+  }
   successor_id {
     id: "150_3_1"
   }
@@ -22918,6 +23104,9 @@ lane {
     }
   }
   length: 15.37240435844
+  overlap_id {
+    id: "overlap_signal_11_3"
+  }
   successor_id {
     id: "152_2_-1"
   }
@@ -23941,6 +24130,9 @@ lane {
     }
   }
   length: 15.82774248963
+  overlap_id {
+    id: "overlap_signal_31_2"
+  }
   successor_id {
     id: "22_1_1"
   }
@@ -24117,6 +24309,9 @@ lane {
     }
   }
   length: 11.00005004719
+  overlap_id {
+    id: "overlap_signal_30_3"
+  }
   successor_id {
     id: "166_2_-1"
   }
@@ -24461,6 +24656,9 @@ lane {
     }
   }
   length: 21.64939688189
+  overlap_id {
+    id: "overlap_signal_19_3"
+  }
   successor_id {
     id: "170_2_-1"
   }
@@ -24641,6 +24839,9 @@ lane {
     }
   }
   length: 0.1845041839196
+  overlap_id {
+    id: "overlap_signal_20_3"
+  }
   successor_id {
     id: "178_3_1"
   }
@@ -25197,6 +25398,9 @@ lane {
     }
   }
   length: 15.43588309452
+  overlap_id {
+    id: "overlap_signal_35_3"
+  }
   successor_id {
     id: "9_1_-1"
   }
@@ -25718,6 +25922,9 @@ lane {
     }
   }
   length: 21.24190668061
+  overlap_id {
+    id: "overlap_signal_34_2"
+  }
   successor_id {
     id: "22_1_-1"
   }
@@ -26185,6 +26392,9 @@ lane {
     }
   }
   length: 21.95480870703
+  overlap_id {
+    id: "overlap_signal_33_3"
+  }
   successor_id {
     id: "9_1_-1"
   }
@@ -26401,6 +26611,9 @@ lane {
     }
   }
   length: 15.65650188708
+  overlap_id {
+    id: "overlap_signal_19_2"
+  }
   successor_id {
     id: "9_1_1"
   }
@@ -26844,6 +27057,9 @@ lane {
     }
   }
   length: 15.29738945299
+  overlap_id {
+    id: "overlap_signal_17_3"
+  }
   successor_id {
     id: "10_1_1"
   }
@@ -27965,6 +28181,2022 @@ signal {
     }
   }
 }
+signal {
+  id {
+    id: "signal32"
+  }
+  boundary {
+    point {
+      x: 95.4899673461914
+      y: -143.88002014160156
+      z: 0
+    }
+    point {
+      x: 95.4899673461914
+      y: -144.88002014160156
+      z: 0
+    }
+    point {
+      x: 94.4899673461914
+      y: -143.88002014160156
+      z: 0
+    }
+    point {
+      x: 94.4899673461914
+      y: -144.88002014160156
+      z: 0
+    }
+  }
+  subsignal {
+    id {
+      id: "0"
+    }
+    type: CIRCLE
+    location {
+      x: 94.9899673461914
+      y: -144.38002014160156
+      z: 2.3
+    }
+  }
+  subsignal {
+    id {
+      id: "1"
+    }
+    type: CIRCLE
+    location {
+      x: 94.9899673461914
+      y: -144.38002014160156
+      z: 2.6
+    }
+  }
+  subsignal {
+    id {
+      id: "2"
+    }
+    type: CIRCLE
+    location {
+      x: 94.9899673461914
+      y: -144.38002014160156
+      z: 2.9
+    }
+  }
+  overlap_id {
+    id: "overlap_signal_32_1"
+  }
+  overlap_id {
+    id: "overlap_signal_32_2"
+  }
+  overlap_id {
+    id: "overlap_signal_32_3"
+  }
+  type: MIX_3_VERTICAL
+  stop_line {
+    segment {
+      line_segment {
+        point {
+          x: 90.38
+          y: -148.38
+        }
+        point {
+          x: 94.39
+          y: -148.38
+        }
+      }
+    }
+  }
+}
+signal {
+  id {
+    id: "signal31"
+  }
+  boundary {
+    point {
+      x: 103.21998596191406
+      y: -126.32001495361328
+      z: 0
+    }
+    point {
+      x: 103.21998596191406
+      y: -127.32001495361328
+      z: 0
+    }
+    point {
+      x: 102.21998596191406
+      y: -126.32001495361328
+      z: 0
+    }
+    point {
+      x: 102.21998596191406
+      y: -127.32001495361328
+      z: 0
+    }
+  }
+  subsignal {
+    id {
+      id: "0"
+    }
+    type: CIRCLE
+    location {
+      x: 102.71998596191406
+      y: -126.82001495361328
+      z: 2.3
+    }
+  }
+  subsignal {
+    id {
+      id: "1"
+    }
+    type: CIRCLE
+    location {
+      x: 102.71998596191406
+      y: -126.82001495361328
+      z: 2.6
+    }
+  }
+  subsignal {
+    id {
+      id: "2"
+    }
+    type: CIRCLE
+    location {
+      x: 102.71998596191406
+      y: -126.82001495361328
+      z: 2.9
+    }
+  }
+  overlap_id {
+    id: "overlap_signal_31_1"
+  }
+  overlap_id {
+    id: "overlap_signal_31_2"
+  }
+  overlap_id {
+    id: "overlap_signal_31_3"
+  }
+  type: MIX_3_VERTICAL
+  stop_line {
+    segment {
+      line_segment {
+        point {
+          x: 107.71998596191406
+          y: -131.41
+        }
+        point {
+          x: 107.71998596191406
+          y: -127.41
+        }
+      }
+    }
+  }
+}
+signal {
+  id {
+    id: "signal30"
+  }
+  boundary {
+    point {
+      x: 86.229988098144531
+      y: -119.25
+      z: 0
+    }
+    point {
+      x: 86.229988098144531
+      y: -120.25
+      z: 0
+    }
+    point {
+      x: 85.229988098144531
+      y: -119.25
+      z: 0
+    }
+    point {
+      x: 85.229988098144531
+      y: -120.25
+      z: 0
+    }
+  }
+  subsignal {
+    id {
+      id: "0"
+    }
+    type: CIRCLE
+    location {
+      x: 85.729988098144531
+      y: -119.75
+      z: 2.3
+    }
+  }
+  subsignal {
+    id {
+      id: "1"
+    }
+    type: CIRCLE
+    location {
+      x: 85.729988098144531
+      y: -119.75
+      z: 2.6
+    }
+  }
+  subsignal {
+    id {
+      id: "2"
+    }
+    type: CIRCLE
+    location {
+      x: 85.729988098144531
+      y: -119.75
+      z: 2.9
+    }
+  }
+  overlap_id {
+    id: "overlap_signal_30_1"
+  }
+  overlap_id {
+    id: "overlap_signal_30_2"
+  }
+  overlap_id {
+    id: "overlap_signal_30_3"
+  }
+  type: MIX_3_VERTICAL
+  stop_line {
+    segment {
+      line_segment {
+        point {
+          x: 90.4
+          y: -114.75
+        }
+        point {
+          x: 86.4
+          y: -114.75
+        }
+      }
+    }
+  }
+}
+signal {
+  id {
+    id: "signal33"
+  }
+  boundary {
+    point {
+      x: 86.229995727539062
+      y: -45.279998779296875
+      z: 0
+    }
+    point {
+      x: 86.229995727539062
+      y: -46.279998779296875
+      z: 0
+    }
+    point {
+      x: 85.229995727539062
+      y: -45.279998779296875
+      z: 0
+    }
+    point {
+      x: 85.229995727539062
+      y: -46.279998779296875
+      z: 0
+    }
+  }
+  subsignal {
+    id {
+      id: "0"
+    }
+    type: CIRCLE
+    location {
+      x: 85.729995727539062
+      y: -45.779998779296875
+      z: 2.3
+    }
+  }
+  subsignal {
+    id {
+      id: "1"
+    }
+    type: CIRCLE
+    location {
+      x: 85.729995727539062
+      y: -45.779998779296875
+      z: 2.6
+    }
+  }
+  subsignal {
+    id {
+      id: "2"
+    }
+    type: CIRCLE
+    location {
+      x: 85.729995727539062
+      y: -45.779998779296875
+      z: 2.9
+    }
+  }
+  overlap_id {
+    id: "overlap_signal_33_1"
+  }
+  overlap_id {
+    id: "overlap_signal_33_2"
+  }
+  overlap_id {
+    id: "overlap_signal_33_3"
+  }
+  type: MIX_3_VERTICAL
+  stop_line {
+    segment {
+      line_segment {
+        point {
+          x: 90.4
+          y: -40.779998779296875
+        }
+        point {
+          x: 86.4
+          y: -40.779998779296875
+        }
+      }
+    }
+  }
+}
+signal {
+  id {
+    id: "signal34"
+  }
+  boundary {
+    point {
+      x: 103.22000122070312
+      y: -52.350017547607422
+      z: 0
+    }
+    point {
+      x: 103.22000122070312
+      y: -53.350017547607422
+      z: 0
+    }
+    point {
+      x: 102.22000122070312
+      y: -52.350017547607422
+      z: 0
+    }
+    point {
+      x: 102.22000122070312
+      y: -53.350017547607422
+      z: 0
+    }
+  }
+  subsignal {
+    id {
+      id: "0"
+    }
+    type: CIRCLE
+    location {
+      x: 102.72000122070312
+      y: -52.850017547607422
+      z: 2.3
+    }
+  }
+  subsignal {
+    id {
+      id: "1"
+    }
+    type: CIRCLE
+    location {
+      x: 102.72000122070312
+      y: -52.850017547607422
+      z: 2.6
+    }
+  }
+  subsignal {
+    id {
+      id: "2"
+    }
+    type: CIRCLE
+    location {
+      x: 102.72000122070312
+      y: -52.850017547607422
+      z: 2.9
+    }
+  }
+  overlap_id {
+    id: "overlap_signal_34_1"
+  }
+  overlap_id {
+    id: "overlap_signal_34_2"
+  }
+  overlap_id {
+    id: "overlap_signal_34_3"
+  }
+  type: MIX_3_VERTICAL
+  stop_line {
+    segment {
+      line_segment {
+        point {
+          x: 107.72000122070312
+          y: -57.45
+        }
+        point {
+          x: 107.72000122070312
+          y: -53.6
+        }
+      }
+    }
+  }
+}
+signal {
+  id {
+    id: "signal35"
+  }
+  boundary {
+    point {
+      x: 95.489974975585938
+      y: -69.909996032714844
+      z: 0
+    }
+    point {
+      x: 95.489974975585938
+      y: -70.909996032714844
+      z: 0
+    }
+    point {
+      x: 94.489974975585938
+      y: -69.909996032714844
+      z: 0
+    }
+    point {
+      x: 94.489974975585938
+      y: -70.909996032714844
+      z: 0
+    }
+  }
+  subsignal {
+    id {
+      id: "0"
+    }
+    type: CIRCLE
+    location {
+      x: 94.989974975585938
+      y: -70.409996032714844
+      z: 2.3
+    }
+  }
+  subsignal {
+    id {
+      id: "1"
+    }
+    type: CIRCLE
+    location {
+      x: 94.989974975585938
+      y: -70.409996032714844
+      z: 2.6
+    }
+  }
+  subsignal {
+    id {
+      id: "2"
+    }
+    type: CIRCLE
+    location {
+      x: 94.989974975585938
+      y: -70.409996032714844
+      z: 2.9
+    }
+  }
+  overlap_id {
+    id: "overlap_signal_35_1"
+  }
+  overlap_id {
+    id: "overlap_signal_35_2"
+  }
+  overlap_id {
+    id: "overlap_signal_35_3"
+  }
+  type: MIX_3_VERTICAL
+  stop_line {
+    segment {
+      line_segment {
+        point {
+          x: 90.38
+          y: -75.409996032714844
+        }
+        point {
+          x: 94.38
+          y: -75.409996032714844
+        }
+      }
+    }
+  }
+}
+signal {
+  id {
+    id: "signal3"
+  }
+  boundary {
+    point {
+      x: 77.979995727539062
+      y: -4.3299999237060547
+      z: 0
+    }
+    point {
+      x: 77.979995727539062
+      y: -5.3299999237060547
+      z: 0
+    }
+    point {
+      x: 76.979995727539062
+      y: -4.3299999237060547
+      z: 0
+    }
+    point {
+      x: 76.979995727539062
+      y: -5.3299999237060547
+      z: 0
+    }
+  }
+  subsignal {
+    id {
+      id: "0"
+    }
+    type: CIRCLE
+    location {
+      x: 77.479995727539062
+      y: -4.8299999237060547
+      z: 2.3
+    }
+  }
+  subsignal {
+    id {
+      id: "1"
+    }
+    type: CIRCLE
+    location {
+      x: 77.479995727539062
+      y: -4.8299999237060547
+      z: 2.6
+    }
+  }
+  subsignal {
+    id {
+      id: "2"
+    }
+    type: CIRCLE
+    location {
+      x: 77.479995727539062
+      y: -4.8299999237060547
+      z: 2.9
+    }
+  }
+  overlap_id {
+    id: "overlap_signal_3_1"
+  }
+  overlap_id {
+    id: "overlap_signal_3_2"
+  }
+  overlap_id {
+    id: "overlap_signal_3_3"
+  }
+  type: MIX_3_VERTICAL
+  stop_line {
+    segment {
+      line_segment {
+        point {
+          x: 72.479995727539062
+          y: -0.01
+        }
+        point {
+          x: 72.479995727539062
+          y: -4.01
+        }
+      }
+    }
+  }
+}
+signal {
+  id {
+    id: "signal21"
+  }
+  boundary {
+    point {
+      x: 95.540000915527344
+      y: -12.060009956359863
+      z: 0
+    }
+    point {
+      x: 95.540000915527344
+      y: -13.060009956359863
+      z: 0
+    }
+    point {
+      x: 94.540000915527344
+      y: -12.060009956359863
+      z: 0
+    }
+    point {
+      x: 94.540000915527344
+      y: -13.060009956359863
+      z: 0
+    }
+  }
+  subsignal {
+    id {
+      id: "0"
+    }
+    type: CIRCLE
+    location {
+      x: 95.040000915527344
+      y: -12.560009956359863
+      z: 2.3
+    }
+  }
+  subsignal {
+    id {
+      id: "1"
+    }
+    type: CIRCLE
+    location {
+      x: 95.040000915527344
+      y: -12.560009956359863
+      z: 2.6
+    }
+  }
+  subsignal {
+    id {
+      id: "2"
+    }
+    type: CIRCLE
+    location {
+      x: 95.040000915527344
+      y: -12.560009956359863
+      z: 2.9
+    }
+  }
+  overlap_id {
+    id: "overlap_signal_21_1"
+  }
+  overlap_id {
+    id: "overlap_signal_21_2"
+  }
+  overlap_id {
+    id: "overlap_signal_21_3"
+  }
+  type: MIX_3_VERTICAL
+  stop_line {
+    segment {
+      line_segment {
+        point {
+          x: 90.38
+          y: -17.560009956359863
+        }
+        point {
+          x: 94.38
+          y: -17.560009956359863
+        }
+      }
+    }
+  }
+}
+signal {
+  id {
+    id: "signal23"
+  }
+  boundary {
+    point {
+      x: 102.61000061035156
+      y: 4.929990291595459
+      z: 0
+    }
+    point {
+      x: 102.61000061035156
+      y: 3.929990291595459
+      z: 0
+    }
+    point {
+      x: 101.61000061035156
+      y: 4.929990291595459
+      z: 0
+    }
+    point {
+      x: 101.61000061035156
+      y: 3.929990291595459
+      z: 0
+    }
+  }
+  subsignal {
+    id {
+      id: "0"
+    }
+    type: CIRCLE
+    location {
+      x: 102.11000061035156
+      y: 4.429990291595459
+      z: 2.3
+    }
+  }
+  subsignal {
+    id {
+      id: "1"
+    }
+    type: CIRCLE
+    location {
+      x: 102.11000061035156
+      y: 4.429990291595459
+      z: 2.6
+    }
+  }
+  subsignal {
+    id {
+      id: "2"
+    }
+    type: CIRCLE
+    location {
+      x: 102.11000061035156
+      y: 4.429990291595459
+      z: 2.9
+    }
+  }
+  overlap_id {
+    id: "overlap_signal_23_1"
+  }
+  overlap_id {
+    id: "overlap_signal_23_2"
+  }
+  overlap_id {
+    id: "overlap_signal_23_3"
+  }
+  type: MIX_3_VERTICAL
+  stop_line {
+    segment {
+      line_segment {
+        point {
+          x: 107.11000061035156
+          y: 0.03
+        }
+        point {
+          x: 107.11000061035156
+          y: 4.03
+        }
+      }
+    }
+  }
+}
+signal {
+  id {
+    id: "signal4"
+  }
+  boundary {
+    point {
+      x: 168.25
+      y: 4.929990291595459
+      z: 0
+    }
+    point {
+      x: 168.25
+      y: 3.929990291595459
+      z: 0
+    }
+    point {
+      x: 167.25
+      y: 4.929990291595459
+      z: 0
+    }
+    point {
+      x: 167.25
+      y: 3.929990291595459
+      z: 0
+    }
+  }
+  subsignal {
+    id {
+      id: "0"
+    }
+    type: CIRCLE
+    location {
+      x: 167.75
+      y: 4.429990291595459
+      z: 2.3
+    }
+  }
+  subsignal {
+    id {
+      id: "1"
+    }
+    type: CIRCLE
+    location {
+      x: 167.75
+      y: 4.429990291595459
+      z: 2.6
+    }
+  }
+  subsignal {
+    id {
+      id: "2"
+    }
+    type: CIRCLE
+    location {
+      x: 167.75
+      y: 4.429990291595459
+      z: 2.9
+    }
+  }
+  overlap_id {
+    id: "overlap_signal_4_1"
+  }
+  overlap_id {
+    id: "overlap_signal_4_2"
+  }
+  overlap_id {
+    id: "overlap_signal_4_3"
+  }
+  type: MIX_3_VERTICAL
+  stop_line {
+    segment {
+      line_segment {
+        point {
+          x: 172.75
+          y: 0.03
+        }
+        point {
+          x: 172.75
+          y: 4.03
+        }
+      }
+    }
+  }
+}
+signal {
+  id {
+    id: "signal5"
+  }
+  boundary {
+    point {
+      x: 161.17999267578125
+      y: -12.059999465942383
+      z: 0
+    }
+    point {
+      x: 161.17999267578125
+      y: -13.059999465942383
+      z: 0
+    }
+    point {
+      x: 160.17999267578125
+      y: -12.059999465942383
+      z: 0
+    }
+    point {
+      x: 160.17999267578125
+      y: -13.059999465942383
+      z: 0
+    }
+  }
+  subsignal {
+    id {
+      id: "0"
+    }
+    type: CIRCLE
+    location {
+      x: 160.67999267578125
+      y: -12.559999465942383
+      z: 2.3
+    }
+  }
+  subsignal {
+    id {
+      id: "1"
+    }
+    type: CIRCLE
+    location {
+      x: 160.67999267578125
+      y: -12.559999465942383
+      z: 2.6
+    }
+  }
+  subsignal {
+    id {
+      id: "2"
+    }
+    type: CIRCLE
+    location {
+      x: 160.67999267578125
+      y: -12.559999465942383
+      z: 2.9
+    }
+  }
+  overlap_id {
+    id: "overlap_signal_5_1"
+  }
+  overlap_id {
+    id: "overlap_signal_5_2"
+  }
+  overlap_id {
+    id: "overlap_signal_5_3"
+  }
+  type: MIX_3_VERTICAL
+  stop_line {
+    segment {
+      line_segment {
+        point {
+          x: 156.05
+          y: -17.559999465942383
+        }
+        point {
+          x: 160.06
+          y: -17.559999465942383
+        }
+      }
+    }
+  }
+}
+signal {
+  id {
+    id: "signal6"
+  }
+  boundary {
+    point {
+      x: 143.6199951171875
+      y: -4.3300094604492188
+      z: 0
+    }
+    point {
+      x: 143.6199951171875
+      y: -5.3300094604492188
+      z: 0
+    }
+    point {
+      x: 142.6199951171875
+      y: -4.3300094604492188
+      z: 0
+    }
+    point {
+      x: 142.6199951171875
+      y: -5.3300094604492188
+      z: 0
+    }
+  }
+  subsignal {
+    id {
+      id: "0"
+    }
+    type: CIRCLE
+    location {
+      x: 143.1199951171875
+      y: -4.8300094604492188
+      z: 2.3
+    }
+  }
+  subsignal {
+    id {
+      id: "1"
+    }
+    type: CIRCLE
+    location {
+      x: 143.1199951171875
+      y: -4.8300094604492188
+      z: 2.6
+    }
+  }
+  subsignal {
+    id {
+      id: "2"
+    }
+    type: CIRCLE
+    location {
+      x: 143.1199951171875
+      y: -4.8300094604492188
+      z: 2.9
+    }
+  }
+  overlap_id {
+    id: "overlap_signal_6_1"
+  }
+  overlap_id {
+    id: "overlap_signal_6_2"
+  }
+  overlap_id {
+    id: "overlap_signal_6_3"
+  }
+  type: MIX_3_VERTICAL
+  stop_line {
+    segment {
+      line_segment {
+        point {
+          x: 138.1199951171875
+          y: -0.01
+        }
+        point {
+          x: 138.1199951171875
+          y: -4.01
+        }
+      }
+    }
+  }
+}
+signal {
+  id {
+    id: "signal19"
+  }
+  boundary {
+    point {
+      x: 151.80995178222656
+      y: -44.800075531005859
+      z: 0
+    }
+    point {
+      x: 151.80995178222656
+      y: -45.800075531005859
+      z: 0
+    }
+    point {
+      x: 150.80995178222656
+      y: -44.800075531005859
+      z: 0
+    }
+    point {
+      x: 150.80995178222656
+      y: -45.800075531005859
+      z: 0
+    }
+  }
+  subsignal {
+    id {
+      id: "0"
+    }
+    type: CIRCLE
+    location {
+      x: 151.30995178222656
+      y: -45.300075531005859
+      z: 2.3
+    }
+  }
+  subsignal {
+    id {
+      id: "1"
+    }
+    type: CIRCLE
+    location {
+      x: 151.30995178222656
+      y: -45.300075531005859
+      z: 2.6
+    }
+  }
+  subsignal {
+    id {
+      id: "2"
+    }
+    type: CIRCLE
+    location {
+      x: 151.30995178222656
+      y: -45.300075531005859
+      z: 2.9
+    }
+  }
+  overlap_id {
+    id: "overlap_signal_19_1"
+  }
+  overlap_id {
+    id: "overlap_signal_19_2"
+  }
+  overlap_id {
+    id: "overlap_signal_19_3"
+  }
+  type: MIX_3_VERTICAL
+  stop_line {
+    segment {
+      line_segment {
+        point {
+          x: 156.09
+          y: -40.300075531005859
+        }
+        point {
+          x: 152.09
+          y: -40.300075531005859
+        }
+      }
+    }
+  }
+}
+signal {
+  id {
+    id: "signal20"
+  }
+  boundary {
+    point {
+      x: 169.3699951171875
+      y: -52.530036926269531
+      z: 0
+    }
+    point {
+      x: 169.3699951171875
+      y: -53.530036926269531
+      z: 0
+    }
+    point {
+      x: 168.3699951171875
+      y: -52.530036926269531
+      z: 0
+    }
+    point {
+      x: 168.3699951171875
+      y: -53.530036926269531
+      z: 0
+    }
+  }
+  subsignal {
+    id {
+      id: "0"
+    }
+    type: CIRCLE
+    location {
+      x: 168.8699951171875
+      y: -53.030036926269531
+      z: 2.3
+    }
+  }
+  subsignal {
+    id {
+      id: "1"
+    }
+    type: CIRCLE
+    location {
+      x: 168.8699951171875
+      y: -53.030036926269531
+      z: 2.6
+    }
+  }
+  subsignal {
+    id {
+      id: "2"
+    }
+    type: CIRCLE
+    location {
+      x: 168.8699951171875
+      y: -53.030036926269531
+      z: 2.9
+    }
+  }
+  overlap_id {
+    id: "overlap_signal_20_1"
+  }
+  overlap_id {
+    id: "overlap_signal_20_2"
+  }
+  overlap_id {
+    id: "overlap_signal_20_3"
+  }
+  type: MIX_3_VERTICAL
+  stop_line {
+    segment {
+      line_segment {
+        point {
+          x: 173.8699951171875
+          y: -57.58
+        }
+        point {
+          x: 173.8699951171875
+          y: -53.58
+        }
+      }
+    }
+  }
+}
+signal {
+  id {
+    id: "signal18"
+  }
+  boundary {
+    point {
+      x: 144.74003601074219
+      y: -61.789997100830078
+      z: 0
+    }
+    point {
+      x: 144.74003601074219
+      y: -62.789997100830078
+      z: 0
+    }
+    point {
+      x: 143.74003601074219
+      y: -61.789997100830078
+      z: 0
+    }
+    point {
+      x: 143.74003601074219
+      y: -62.789997100830078
+      z: 0
+    }
+  }
+  subsignal {
+    id {
+      id: "0"
+    }
+    type: CIRCLE
+    location {
+      x: 144.24003601074219
+      y: -62.289997100830078
+      z: 2.3
+    }
+  }
+  subsignal {
+    id {
+      id: "1"
+    }
+    type: CIRCLE
+    location {
+      x: 144.24003601074219
+      y: -62.289997100830078
+      z: 2.6
+    }
+  }
+  subsignal {
+    id {
+      id: "2"
+    }
+    type: CIRCLE
+    location {
+      x: 144.24003601074219
+      y: -62.289997100830078
+      z: 2.9
+    }
+  }
+  overlap_id {
+    id: "overlap_signal_18_1"
+  }
+  overlap_id {
+    id: "overlap_signal_18_2"
+  }
+  overlap_id {
+    id: "overlap_signal_18_3"
+  }
+  type: MIX_3_VERTICAL
+  stop_line {
+    segment {
+      line_segment {
+        point {
+          x: 139.24003601074219
+          y: -57.64
+        }
+        point {
+          x: 139.24003601074219
+          y: -61.64
+        }
+      }
+    }
+  }
+}
+signal {
+  id {
+    id: "signal11"
+  }
+  boundary {
+    point {
+      x: 322.18011474609375
+      y: -135.63215637207031
+      z: 0
+    }
+    point {
+      x: 322.18011474609375
+      y: -136.63215637207031
+      z: 0
+    }
+    point {
+      x: 321.18011474609375
+      y: -135.63215637207031
+      z: 0
+    }
+    point {
+      x: 321.18011474609375
+      y: -136.63215637207031
+      z: 0
+    }
+  }
+  subsignal {
+    id {
+      id: "0"
+    }
+    type: CIRCLE
+    location {
+      x: 321.68011474609375
+      y: -136.13215637207031
+      z: 2.3
+    }
+  }
+  subsignal {
+    id {
+      id: "1"
+    }
+    type: CIRCLE
+    location {
+      x: 321.68011474609375
+      y: -136.13215637207031
+      z: 2.6
+    }
+  }
+  subsignal {
+    id {
+      id: "2"
+    }
+    type: CIRCLE
+    location {
+      x: 321.68011474609375
+      y: -136.13215637207031
+      z: 2.9
+    }
+  }
+  overlap_id {
+    id: "overlap_signal_11_1"
+  }
+  overlap_id {
+    id: "overlap_signal_11_2"
+  }
+  overlap_id {
+    id: "overlap_signal_11_3"
+  }
+  type: MIX_3_VERTICAL
+  stop_line {
+    segment {
+      line_segment {
+        point {
+          x: 316.68011474609375
+          y: -131.55
+        }
+        point {
+          x: 316.68011474609375
+          y: -135.55
+        }
+      }
+    }
+  }
+}
+signal {
+  id {
+    id: "signal10"
+  }
+  boundary {
+    point {
+      x: 341.75003051757812
+      y: -143.05995178222656
+      z: 0
+    }
+    point {
+      x: 341.75003051757812
+      y: -144.05995178222656
+      z: 0
+    }
+    point {
+      x: 340.75003051757812
+      y: -143.05995178222656
+      z: 0
+    }
+    point {
+      x: 340.75003051757812
+      y: -144.05995178222656
+      z: 0
+    }
+  }
+  subsignal {
+    id {
+      id: "0"
+    }
+    type: CIRCLE
+    location {
+      x: 341.25003051757812
+      y: -143.55995178222656
+      z: 2.3
+    }
+  }
+  subsignal {
+    id {
+      id: "1"
+    }
+    type: CIRCLE
+    location {
+      x: 341.25003051757812
+      y: -143.55995178222656
+      z: 2.6
+    }
+  }
+  subsignal {
+    id {
+      id: "2"
+    }
+    type: CIRCLE
+    location {
+      x: 341.25003051757812
+      y: -143.55995178222656
+      z: 2.9
+    }
+  }
+  overlap_id {
+    id: "overlap_signal_10_1"
+  }
+  overlap_id {
+    id: "overlap_signal_10_2"
+  }
+  overlap_id {
+    id: "overlap_signal_10_3"
+  }
+  type: MIX_3_VERTICAL
+  stop_line {
+    segment {
+      line_segment {
+        point {
+          x: 336.75
+          y: -148.55995178222656
+        }
+        point {
+          x: 340.75
+          y: -148.55995178222656
+        }
+      }
+    }
+  }
+}
+signal {
+  id {
+    id: "signal12"
+  }
+  boundary {
+    point {
+      x: 332.49002075195312
+      y: -118.43003845214844
+      z: 0
+    }
+    point {
+      x: 332.49002075195312
+      y: -119.43003845214844
+      z: 0
+    }
+    point {
+      x: 331.49002075195312
+      y: -118.43003845214844
+      z: 0
+    }
+    point {
+      x: 331.49002075195312
+      y: -119.43003845214844
+      z: 0
+    }
+  }
+  subsignal {
+    id {
+      id: "0"
+    }
+    type: CIRCLE
+    location {
+      x: 331.99002075195312
+      y: -118.93003845214844
+      z: 2.3
+    }
+  }
+  subsignal {
+    id {
+      id: "1"
+    }
+    type: CIRCLE
+    location {
+      x: 331.99002075195312
+      y: -118.93003845214844
+      z: 2.6
+    }
+  }
+  subsignal {
+    id {
+      id: "2"
+    }
+    type: CIRCLE
+    location {
+      x: 331.99002075195312
+      y: -118.93003845214844
+      z: 2.9
+    }
+  }
+  overlap_id {
+    id: "overlap_signal_12_1"
+  }
+  overlap_id {
+    id: "overlap_signal_12_2"
+  }
+  overlap_id {
+    id: "overlap_signal_12_3"
+  }
+  type: MIX_3_VERTICAL
+  stop_line {
+    segment {
+      line_segment {
+        point {
+          x: 336.86
+          y: -113.93003845214844
+        }
+        point {
+          x: 332.84
+          y: -113.93003845214844
+        }
+      }
+    }
+  }
+}
+signal {
+  id {
+    id: "signal17"
+  }
+  boundary {
+    point {
+      x: 332.49002075195312
+      y: -44.380039215087891
+      z: 0
+    }
+    point {
+      x: 332.49002075195312
+      y: -45.380039215087891
+      z: 0
+    }
+    point {
+      x: 331.49002075195312
+      y: -44.380039215087891
+      z: 0
+    }
+    point {
+      x: 331.49002075195312
+      y: -45.380039215087891
+      z: 0
+    }
+  }
+  subsignal {
+    id {
+      id: "0"
+    }
+    type: CIRCLE
+    location {
+      x: 331.99002075195312
+      y: -44.880039215087891
+      z: 2.3
+    }
+  }
+  subsignal {
+    id {
+      id: "1"
+    }
+    type: CIRCLE
+    location {
+      x: 331.99002075195312
+      y: -44.880039215087891
+      z: 2.6
+    }
+  }
+  subsignal {
+    id {
+      id: "2"
+    }
+    type: CIRCLE
+    location {
+      x: 331.99002075195312
+      y: -44.880039215087891
+      z: 2.9
+    }
+  }
+  overlap_id {
+    id: "overlap_signal_17_1"
+  }
+  overlap_id {
+    id: "overlap_signal_17_2"
+  }
+  overlap_id {
+    id: "overlap_signal_17_3"
+  }
+  type: MIX_3_VERTICAL
+  stop_line {
+    segment {
+      line_segment {
+        point {
+          x: 336.86
+          y: -39.880039215087891
+        }
+        point {
+          x: 332.84
+          y: -39.880039215087891
+        }
+      }
+    }
+  }
+}
+signal {
+  id {
+    id: "signal16"
+  }
+  boundary {
+    point {
+      x: 322.26010131835938
+      y: -61.9400749206543
+      z: 0
+    }
+    point {
+      x: 322.26010131835938
+      y: -62.9400749206543
+      z: 0
+    }
+    point {
+      x: 321.26010131835938
+      y: -61.9400749206543
+      z: 0
+    }
+    point {
+      x: 321.26010131835938
+      y: -62.9400749206543
+      z: 0
+    }
+  }
+  subsignal {
+    id {
+      id: "0"
+    }
+    type: CIRCLE
+    location {
+      x: 321.76010131835938
+      y: -62.4400749206543
+      z: 2.3
+    }
+  }
+  subsignal {
+    id {
+      id: "1"
+    }
+    type: CIRCLE
+    location {
+      x: 321.76010131835938
+      y: -62.4400749206543
+      z: 2.6
+    }
+  }
+  subsignal {
+    id {
+      id: "2"
+    }
+    type: CIRCLE
+    location {
+      x: 321.76010131835938
+      y: -62.4400749206543
+      z: 2.9
+    }
+  }
+  overlap_id {
+    id: "overlap_signal_16_1"
+  }
+  overlap_id {
+    id: "overlap_signal_16_2"
+  }
+  overlap_id {
+    id: "overlap_signal_16_3"
+  }
+  type: MIX_3_VERTICAL
+  stop_line {
+    segment {
+      line_segment {
+        point {
+          x: 316.76010131835938
+          y: -57.46
+        }
+        point {
+          x: 316.76010131835938
+          y: -61.52
+        }
+      }
+    }
+  }
+}
+signal {
+  id {
+    id: "signal13"
+  }
+  boundary {
+    point {
+      x: 341.75003051757812
+      y: -69.009956359863281
+      z: 0
+    }
+    point {
+      x: 341.75003051757812
+      y: -70.009956359863281
+      z: 0
+    }
+    point {
+      x: 340.75003051757812
+      y: -69.009956359863281
+      z: 0
+    }
+    point {
+      x: 340.75003051757812
+      y: -70.009956359863281
+      z: 0
+    }
+  }
+  subsignal {
+    id {
+      id: "0"
+    }
+    type: CIRCLE
+    location {
+      x: 341.25003051757812
+      y: -69.509956359863281
+      z: 2.3
+    }
+  }
+  subsignal {
+    id {
+      id: "1"
+    }
+    type: CIRCLE
+    location {
+      x: 341.25003051757812
+      y: -69.509956359863281
+      z: 2.6
+    }
+  }
+  subsignal {
+    id {
+      id: "2"
+    }
+    type: CIRCLE
+    location {
+      x: 341.25003051757812
+      y: -69.509956359863281
+      z: 2.9
+    }
+  }
+  overlap_id {
+    id: "overlap_signal_13_1"
+  }
+  overlap_id {
+    id: "overlap_signal_13_2"
+  }
+  overlap_id {
+    id: "overlap_signal_13_3"
+  }
+  type: MIX_3_VERTICAL
+  stop_line {
+    segment {
+      line_segment {
+        point {
+          x: 336.75
+          y: -74.509956359863281
+        }
+        point {
+          x: 340.75
+          y: -74.509956359863281
+        }
+      }
+    }
+  }
+}
+signal {
+  id {
+    id: "signal15"
+  }
+  boundary {
+    point {
+      x: 341.8599853515625
+      y: -12.210039138793945
+      z: 0
+    }
+    point {
+      x: 341.8599853515625
+      y: -13.210039138793945
+      z: 0
+    }
+    point {
+      x: 340.8599853515625
+      y: -12.210039138793945
+      z: 0
+    }
+    point {
+      x: 340.8599853515625
+      y: -13.210039138793945
+      z: 0
+    }
+  }
+  subsignal {
+    id {
+      id: "0"
+    }
+    type: CIRCLE
+    location {
+      x: 341.3599853515625
+      y: -12.710039138793945
+      z: 2.3
+    }
+  }
+  subsignal {
+    id {
+      id: "1"
+    }
+    type: CIRCLE
+    location {
+      x: 341.3599853515625
+      y: -12.710039138793945
+      z: 2.6
+    }
+  }
+  subsignal {
+    id {
+      id: "2"
+    }
+    type: CIRCLE
+    location {
+      x: 341.3599853515625
+      y: -12.710039138793945
+      z: 2.9
+    }
+  }
+  overlap_id {
+    id: "overlap_signal_15_1"
+  }
+  overlap_id {
+    id: "overlap_signal_15_2"
+  }
+  overlap_id {
+    id: "overlap_signal_15_3"
+  }
+  type: MIX_3_VERTICAL
+  stop_line {
+    segment {
+      line_segment {
+        point {
+          x: 336.75
+          y: -17.710039138793945
+        }
+        point {
+          x: 340.75
+          y: -17.710039138793945
+        }
+      }
+    }
+  }
+}
+signal {
+  id {
+    id: "signal0"
+  }
+  boundary {
+    point {
+      x: 324.29998779296875
+      y: -4.4800000190734863
+      z: 0
+    }
+    point {
+      x: 324.29998779296875
+      y: -5.4800000190734863
+      z: 0
+    }
+    point {
+      x: 323.29998779296875
+      y: -4.4800000190734863
+      z: 0
+    }
+    point {
+      x: 323.29998779296875
+      y: -5.4800000190734863
+      z: 0
+    }
+  }
+  subsignal {
+    id {
+      id: "0"
+    }
+    type: CIRCLE
+    location {
+      x: 323.79998779296875
+      y: -4.9800000190734863
+      z: 2.3
+    }
+  }
+  subsignal {
+    id {
+      id: "1"
+    }
+    type: CIRCLE
+    location {
+      x: 323.79998779296875
+      y: -4.9800000190734863
+      z: 2.6
+    }
+  }
+  subsignal {
+    id {
+      id: "2"
+    }
+    type: CIRCLE
+    location {
+      x: 323.79998779296875
+      y: -4.9800000190734863
+      z: 2.9
+    }
+  }
+  overlap_id {
+    id: "overlap_signal_0_1"
+  }
+  overlap_id {
+    id: "overlap_signal_0_2"
+  }
+  overlap_id {
+    id: "overlap_signal_0_3"
+  }
+  type: MIX_3_VERTICAL
+  stop_line {
+    segment {
+      line_segment {
+        point {
+          x: 318.79998779296875
+          y: -0.08
+        }
+        point {
+          x: 318.79998779296875
+          y: -4.13
+        }
+      }
+    }
+  }
+}
+signal {
+  id {
+    id: "signal14"
+  }
+  boundary {
+    point {
+      x: 348.92999267578125
+      y: 4.9799609184265137
+      z: 0
+    }
+    point {
+      x: 348.92999267578125
+      y: 3.9799609184265137
+      z: 0
+    }
+    point {
+      x: 347.92999267578125
+      y: 4.9799609184265137
+      z: 0
+    }
+    point {
+      x: 347.92999267578125
+      y: 3.9799609184265137
+      z: 0
+    }
+  }
+  subsignal {
+    id {
+      id: "0"
+    }
+    type: CIRCLE
+    location {
+      x: 348.42999267578125
+      y: 4.4799609184265137
+      z: 2.3
+    }
+  }
+  subsignal {
+    id {
+      id: "1"
+    }
+    type: CIRCLE
+    location {
+      x: 348.42999267578125
+      y: 4.4799609184265137
+      z: 2.6
+    }
+  }
+  subsignal {
+    id {
+      id: "2"
+    }
+    type: CIRCLE
+    location {
+      x: 348.42999267578125
+      y: 4.4799609184265137
+      z: 2.9
+    }
+  }
+  overlap_id {
+    id: "overlap_signal_14_1"
+  }
+  overlap_id {
+    id: "overlap_signal_14_2"
+  }
+  overlap_id {
+    id: "overlap_signal_14_3"
+  }
+  type: MIX_3_VERTICAL
+  stop_line {
+    segment {
+      line_segment {
+        point {
+          x: 353.42999267578125
+          y: 0.02
+        }
+        point {
+          x: 353.42999267578125
+          y: 4.02
+        }
+      }
+    }
+  }
+}
 overlap {
   id {
     id: "overlap_signal_9_1"
@@ -28796,6 +31028,1590 @@ overlap {
   object {
     id {
       id: "signal26"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_32_1"
+  }
+  object {
+    id {
+      id: "23_1_1"
+    }
+    lane_overlap_info {
+      start_s: 37.944928643841969
+      end_s: 38.04492864384197
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal32"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_32_2"
+  }
+  object {
+    id {
+      id: "160_1_-1"
+    }
+    lane_overlap_info {
+      start_s: 0
+      end_s: 0
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal32"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_32_3"
+  }
+  object {
+    id {
+      id: "165_2_1"
+    }
+    lane_overlap_info {
+      start_s: 0
+      end_s: 0
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal32"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_31_1"
+  }
+  object {
+    id {
+      id: "4_1_1"
+    }
+    lane_overlap_info {
+      start_s: 219.91655213587134
+      end_s: 220.01655213587134
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal31"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_31_2"
+  }
+  object {
+    id {
+      id: "157_1_-1"
+    }
+    lane_overlap_info {
+      start_s: 0
+      end_s: 0
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal31"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_31_3"
+  }
+  object {
+    id {
+      id: "159_1_-1"
+    }
+    lane_overlap_info {
+      start_s: 0
+      end_s: 0
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal31"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_30_1"
+  }
+  object {
+    id {
+      id: "22_1_-1"
+    }
+    lane_overlap_info {
+      start_s: 46.596021715286312
+      end_s: 46.696021715286314
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal30"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_30_2"
+  }
+  object {
+    id {
+      id: "158_1_-1"
+    }
+    lane_overlap_info {
+      start_s: 0
+      end_s: 0
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal30"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_30_3"
+  }
+  object {
+    id {
+      id: "166_1_-1"
+    }
+    lane_overlap_info {
+      start_s: 0
+      end_s: 0
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal30"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_33_1"
+  }
+  object {
+    id {
+      id: "21_1_-1"
+    }
+    lane_overlap_info {
+      start_s: 30.112722984233756
+      end_s: 30.212722984233757
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal33"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_33_2"
+  }
+  object {
+    id {
+      id: "188_2_1"
+    }
+    lane_overlap_info {
+      start_s: 0
+      end_s: 0
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal33"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_33_3"
+  }
+  object {
+    id {
+      id: "193_1_-1"
+    }
+    lane_overlap_info {
+      start_s: 0
+      end_s: 0
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal33"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_34_1"
+  }
+  object {
+    id {
+      id: "9_1_1"
+    }
+    lane_overlap_info {
+      start_s: 37.267756987438005
+      end_s: 37.367756987438007
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal34"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_34_2"
+  }
+  object {
+    id {
+      id: "192_1_-1"
+    }
+    lane_overlap_info {
+      start_s: 0
+      end_s: 0
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal34"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_34_3"
+  }
+  object {
+    id {
+      id: "194_1_-1"
+    }
+    lane_overlap_info {
+      start_s: 0
+      end_s: 0
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal34"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_35_1"
+  }
+  object {
+    id {
+      id: "22_1_1"
+    }
+    lane_overlap_info {
+      start_s: 44.425086793229973
+      end_s: 44.525086793229974
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal35"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_35_2"
+  }
+  object {
+    id {
+      id: "189_1_-1"
+    }
+    lane_overlap_info {
+      start_s: 0
+      end_s: 0
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal35"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_35_3"
+  }
+  object {
+    id {
+      id: "191_1_-1"
+    }
+    lane_overlap_info {
+      start_s: 0
+      end_s: 0
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal35"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_3_1"
+  }
+  object {
+    id {
+      id: "3_1_1"
+    }
+    lane_overlap_info {
+      start_s: 61.449347433419518
+      end_s: 61.54934743341952
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal3"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_3_2"
+  }
+  object {
+    id {
+      id: "82_4_1"
+    }
+    lane_overlap_info {
+      start_s: 0
+      end_s: 0
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal3"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_3_3"
+  }
+  object {
+    id {
+      id: "92_1_-1"
+    }
+    lane_overlap_info {
+      start_s: 0
+      end_s: 0
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal3"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_21_1"
+  }
+  object {
+    id {
+      id: "21_1_1"
+    }
+    lane_overlap_info {
+      start_s: 28.593343426443145
+      end_s: 28.693343426443146
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal21"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_21_2"
+  }
+  object {
+    id {
+      id: "90_2_1"
+    }
+    lane_overlap_info {
+      start_s: 0
+      end_s: 0
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal21"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_21_3"
+  }
+  object {
+    id {
+      id: "93_1_-1"
+    }
+    lane_overlap_info {
+      start_s: 0
+      end_s: 0
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal21"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_23_1"
+  }
+  object {
+    id {
+      id: "2_1_-1"
+    }
+    lane_overlap_info {
+      start_s: 37.846032813319532
+      end_s: 37.946032813319533
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal23"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_23_2"
+  }
+  object {
+    id {
+      id: "83_1_-1"
+    }
+    lane_overlap_info {
+      start_s: 0
+      end_s: 0
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal23"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_23_3"
+  }
+  object {
+    id {
+      id: "88_1_-1"
+    }
+    lane_overlap_info {
+      start_s: 0
+      end_s: 0
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal23"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_4_1"
+  }
+  object {
+    id {
+      id: "1_1_-1"
+    }
+    lane_overlap_info {
+      start_s: 152.87872630864578
+      end_s: 152.97872630864578
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal4"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_4_2"
+  }
+  object {
+    id {
+      id: "27_2_1"
+    }
+    lane_overlap_info {
+      start_s: 0
+      end_s: 0
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal4"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_4_3"
+  }
+  object {
+    id {
+      id: "38_1_-1"
+    }
+    lane_overlap_info {
+      start_s: 0
+      end_s: 0
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal4"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_5_1"
+  }
+  object {
+    id {
+      id: "25_1_1"
+    }
+    lane_overlap_info {
+      start_s: 28.639605893026829
+      end_s: 28.73960589302683
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal5"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_5_2"
+  }
+  object {
+    id {
+      id: "29_1_-1"
+    }
+    lane_overlap_info {
+      start_s: 0
+      end_s: 0
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal5"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_5_3"
+  }
+  object {
+    id {
+      id: "32_1_-1"
+    }
+    lane_overlap_info {
+      start_s: 0
+      end_s: 0
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal5"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_6_1"
+  }
+  object {
+    id {
+      id: "2_1_1"
+    }
+    lane_overlap_info {
+      start_s: 35.425084677752679
+      end_s: 35.52508467775268
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal6"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_6_2"
+  }
+  object {
+    id {
+      id: "31_1_-1"
+    }
+    lane_overlap_info {
+      start_s: 0
+      end_s: 0
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal6"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_6_3"
+  }
+  object {
+    id {
+      id: "37_4_1"
+    }
+    lane_overlap_info {
+      start_s: 0
+      end_s: 0
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal6"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_19_1"
+  }
+  object {
+    id {
+      id: "25_1_-1"
+    }
+    lane_overlap_info {
+      start_s: 29.592814094179872
+      end_s: 29.692814094179873
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal19"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_19_2"
+  }
+  object {
+    id {
+      id: "168_1_-1"
+    }
+    lane_overlap_info {
+      start_s: 0
+      end_s: 0
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal19"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_19_3"
+  }
+  object {
+    id {
+      id: "170_1_-1"
+    }
+    lane_overlap_info {
+      start_s: 0
+      end_s: 0
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal19"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_20_1"
+  }
+  object {
+    id {
+      id: "10_1_1"
+    }
+    lane_overlap_info {
+      start_s: 151.75693989729686
+      end_s: 151.85693989729685
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal20"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_20_2"
+  }
+  object {
+    id {
+      id: "172_2_1"
+    }
+    lane_overlap_info {
+      start_s: 0
+      end_s: 0
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal20"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_20_3"
+  }
+  object {
+    id {
+      id: "178_4_1"
+    }
+    lane_overlap_info {
+      start_s: 0
+      end_s: 0
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal20"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_18_1"
+  }
+  object {
+    id {
+      id: "9_1_-1"
+    }
+    lane_overlap_info {
+      start_s: 37.8494189619363
+      end_s: 37.9494189619363
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal18"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_18_2"
+  }
+  object {
+    id {
+      id: "169_1_-1"
+    }
+    lane_overlap_info {
+      start_s: 0
+      end_s: 0
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal18"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_18_3"
+  }
+  object {
+    id {
+      id: "179_1_-1"
+    }
+    lane_overlap_info {
+      start_s: 0
+      end_s: 0
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal18"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_11_1"
+  }
+  object {
+    id {
+      id: "4_1_-1"
+    }
+    lane_overlap_info {
+      start_s: 215.26132066378906
+      end_s: 215.36132066378906
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal11"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_11_2"
+  }
+  object {
+    id {
+      id: "141_1_-1"
+    }
+    lane_overlap_info {
+      start_s: 0
+      end_s: 0
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal11"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_11_3"
+  }
+  object {
+    id {
+      id: "152_1_-1"
+    }
+    lane_overlap_info {
+      start_s: 0
+      end_s: 0
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal11"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_10_1"
+  }
+  object {
+    id {
+      id: "18_1_1"
+    }
+    lane_overlap_info {
+      start_s: 103.35318338715912
+      end_s: 103.45318338715911
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal10"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_10_2"
+  }
+  object {
+    id {
+      id: "150_4_1"
+    }
+    lane_overlap_info {
+      start_s: 0
+      end_s: 0
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal10"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_10_3"
+  }
+  object {
+    id {
+      id: "154_2_1"
+    }
+    lane_overlap_info {
+      start_s: 0
+      end_s: 0
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal10"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_12_1"
+  }
+  object {
+    id {
+      id: "17_1_-1"
+    }
+    lane_overlap_info {
+      start_s: 44.8993167915565
+      end_s: 44.9993167915565
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal12"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_12_2"
+  }
+  object {
+    id {
+      id: "140_1_-1"
+    }
+    lane_overlap_info {
+      start_s: 0
+      end_s: 0
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal12"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_12_3"
+  }
+  object {
+    id {
+      id: "151_1_-1"
+    }
+    lane_overlap_info {
+      start_s: 0
+      end_s: 0
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal12"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_17_1"
+  }
+  object {
+    id {
+      id: "16_1_-1"
+    }
+    lane_overlap_info {
+      start_s: 29.087466865487208
+      end_s: 29.18746686548721
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal17"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_17_2"
+  }
+  object {
+    id {
+      id: "122_4_1"
+    }
+    lane_overlap_info {
+      start_s: 0
+      end_s: 0
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal17"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_17_3"
+  }
+  object {
+    id {
+      id: "127_1_-1"
+    }
+    lane_overlap_info {
+      start_s: 0
+      end_s: 0
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal17"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_16_1"
+  }
+  object {
+    id {
+      id: "10_1_-1"
+    }
+    lane_overlap_info {
+      start_s: 149.58731974562329
+      end_s: 149.68731974562328
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal16"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_16_2"
+  }
+  object {
+    id {
+      id: "112_2_1"
+    }
+    lane_overlap_info {
+      start_s: 0
+      end_s: 0
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal16"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_16_3"
+  }
+  object {
+    id {
+      id: "126_1_-1"
+    }
+    lane_overlap_info {
+      start_s: 0
+      end_s: 0
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal16"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_13_1"
+  }
+  object {
+    id {
+      id: "17_1_1"
+    }
+    lane_overlap_info {
+      start_s: 46.068207848039393
+      end_s: 46.168207848039394
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal13"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_13_2"
+  }
+  object {
+    id {
+      id: "114_1_-1"
+    }
+    lane_overlap_info {
+      start_s: 0
+      end_s: 0
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal13"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_13_3"
+  }
+  object {
+    id {
+      id: "123_1_-1"
+    }
+    lane_overlap_info {
+      start_s: 0
+      end_s: 0
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal13"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_15_1"
+  }
+  object {
+    id {
+      id: "16_1_1"
+    }
+    lane_overlap_info {
+      start_s: 28.70723842022338
+      end_s: 28.807238420223381
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal15"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_15_2"
+  }
+  object {
+    id {
+      id: "45_1_-1"
+    }
+    lane_overlap_info {
+      start_s: 0
+      end_s: 0
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal15"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_15_3"
+  }
+  object {
+    id {
+      id: "58_1_-1"
+    }
+    lane_overlap_info {
+      start_s: 0
+      end_s: 0
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal15"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_0_1"
+  }
+  object {
+    id {
+      id: "1_1_1"
+    }
+    lane_overlap_info {
+      start_s: 150.71699275282086
+      end_s: 150.81699275282085
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal0"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_0_2"
+  }
+  object {
+    id {
+      id: "44_1_-1"
+    }
+    lane_overlap_info {
+      start_s: 0
+      end_s: 0
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal0"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_0_3"
+  }
+  object {
+    id {
+      id: "51_1_-1"
+    }
+    lane_overlap_info {
+      start_s: 0
+      end_s: 0
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal0"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_14_1"
+  }
+  object {
+    id {
+      id: "0_1_-1"
+    }
+    lane_overlap_info {
+      start_s: 31.161070535555197
+      end_s: 31.2610705355552
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal14"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_14_2"
+  }
+  object {
+    id {
+      id: "50_4_1"
+    }
+    lane_overlap_info {
+      start_s: 0
+      end_s: 0
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal14"
+    }
+    signal_overlap_info {
+    }
+  }
+}
+overlap {
+  id {
+    id: "overlap_signal_14_3"
+  }
+  object {
+    id {
+      id: "56_2_1"
+    }
+    lane_overlap_info {
+      start_s: 0
+      end_s: 0
+      is_merge: false
+    }
+  }
+  object {
+    id {
+      id: "signal14"
     }
     signal_overlap_info {
     }
